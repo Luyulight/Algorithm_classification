@@ -8,3 +8,4 @@
 :sparkles:欢迎Star 
 
 :sparkles:欢迎关注我的公众号，会不定时发布自己的校招面经和一些技术博客
+![image](https://github.com/realnumber666/Algorithm_classification/blob/master/image/wechat1.png)
