@@ -1,3 +1,8 @@
+<div align="center">
+    <img src="https://s2.ax1x.com/2020/02/11/1T5Qu8.png" width="960px">
+</div>
+
+
 # Algorithm_classification
 
 由于我自己的大部分算法题笔记被我整理在OneNote里格式不方便直接放在GitHub里，我先把本来就写成代码形式的题解放进来。 
@@ -10,4 +15,6 @@
 :sparkles:欢迎加入校招 | 技术讨论QQ群：1045497369:sparkles: 
 
 :sparkles:欢迎关注我的公众号，会不定时发布自己的校招面经和一些技术博客:sparkles: 
-![image](https://github.com/realnumber666/Algorithm_classification/blob/master/image/wechat1.png)
+<div align="center">
+    <img src="https://s2.ax1x.com/2020/02/11/1T4dTH.png" width="800px">
+</div>
